@@ -23,9 +23,7 @@ Passionate about infrastructure resilience, automation, and continuous delivery.
 ### 🛡️ Certifications
 * **AWS Certified Cloud Practitioner** (Amazon Web Services)
 
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="66f9768b-d52c-431c-817a-58dec2edf267" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-https://www.credly.com/badges/66f9768b-d52c-431c-817a-58dec2edf267/public_url*
-
+https://www.credly.com/badges/66f9768b-d52c-431c-817a-58dec2edf267/public_url
 ---
 
 ### 🛠️ Current Focus & Learning Path
