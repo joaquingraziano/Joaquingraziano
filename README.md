@@ -1,11 +1,5 @@
 
-
-<!--
-**joaquingraziano/Joaquingraziano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on observability and resilience
 - 🌱 # Hi there! I'm Joaquín Graziano 👋
 ## Site Reliability Engineer (SRE) & DevOps Specialist
 
@@ -39,4 +33,4 @@ Passionate about infrastructure resilience, automation, and continuous delivery.
 - 👯 I’m looking to collaborate on Iac proyect.
 - 🤔 I’m looking for help with observability
 
--->
+
